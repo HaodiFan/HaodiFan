@@ -79,17 +79,19 @@ We turn cutting-edge AI into working, maintainable, ROI-positive systems.
 
 ## 🧠 Second Brain — Latest from [AF-wiki](https://github.com/HaodiFan/AF-wiki)
 
-> A living personal knowledge system — training, reading, work, and planning in one place.
+> A living personal knowledge system built on the LeadFlow architecture.
 
 <!-- WIKI-FEED:START -->
 | Date | Area | Update |
 |:-----|:-----|:-----|
+| 04-19 | 🔧 System | LeadFlow 架构正式命名，并统一仓库与主页文案 — [→](https://github.com/HaodiFan/AF-wiki/blob/main/log.md) |
 | 04-18 | 📋 Planning | W17 训练计划改为下肢、游泳、推拉混合，并匹配营养节奏 — [→](https://github.com/HaodiFan/AF-wiki/blob/main/areas/fitness/20-weeks/2026-W17-plan.md) |
 | 04-18 | 🏊 Fitness | 游泳 500m，配速 4'37/100m，平均心率 150 bpm — [→](https://github.com/HaodiFan/AF-wiki/blob/main/areas/fitness/10-checkins/2026-04.md) |
 | 04-18 | 🥩 Nutrition | 晚餐牛腱子加牛肉约 750g，当日蛋白基本已覆盖 — [→](https://github.com/HaodiFan/AF-wiki/blob/main/areas/fitness/10-checkins/2026-04.md) |
 | 04-18 | 📋 Planning | 当前减脂主计划固定为 3 次游泳加 3 次力量代谢训练 — [→](https://github.com/HaodiFan/AF-wiki/blob/main/areas/fitness/02-current-plan.md) |
 | 04-18 | 📚 Reading | 收录 7 篇公众号技术文章线索，并建立统一入口页 — [→](https://github.com/HaodiFan/AF-wiki/blob/main/resources/knowledge/wechat-public-account-articles.md) |
-| 04-18 | 🔧 System | Wiki 正式收敛为 PARA second-brain 架构 — [→](https://github.com/HaodiFan/AF-wiki/blob/main/SCHEMA.md) |
+
+
 
 <!-- WIKI-FEED:END -->
 
@@ -171,17 +173,19 @@ We turn cutting-edge AI into working, maintainable, ROI-positive systems.
 
 ## 🧠 Second Brain — 来自 [AF-wiki](https://github.com/HaodiFan/AF-wiki) 的最新动态
 
-> 一个持续演化的个人知识系统，把训练、阅读、工作与规划收拢到同一个入口。
+> 一个基于 LeadFlow 架构持续演化的个人知识系统。
 
 <!-- WIKI-FEED-ZH:START -->
 | 日期 | 领域 | 动态 |
 |:-----|:-----|:-----|
+| 04-19 | 🔧 系统 | LeadFlow 架构正式命名，并统一仓库与主页文案 — [→](https://github.com/HaodiFan/AF-wiki/blob/main/log.md) |
 | 04-18 | 📋 规划 | W17 训练计划改为下肢、游泳、推拉混合，并匹配营养节奏 — [→](https://github.com/HaodiFan/AF-wiki/blob/main/areas/fitness/20-weeks/2026-W17-plan.md) |
 | 04-18 | 🏊 健身 | 游泳 500m，配速 4'37/100m，平均心率 150 bpm — [→](https://github.com/HaodiFan/AF-wiki/blob/main/areas/fitness/10-checkins/2026-04.md) |
 | 04-18 | 🥩 营养 | 晚餐牛腱子加牛肉约 750g，当日蛋白基本已覆盖 — [→](https://github.com/HaodiFan/AF-wiki/blob/main/areas/fitness/10-checkins/2026-04.md) |
 | 04-18 | 📋 规划 | 当前减脂主计划固定为 3 次游泳加 3 次力量代谢训练 — [→](https://github.com/HaodiFan/AF-wiki/blob/main/areas/fitness/02-current-plan.md) |
 | 04-18 | 📚 阅读 | 收录 7 篇公众号技术文章线索，并建立统一入口页 — [→](https://github.com/HaodiFan/AF-wiki/blob/main/resources/knowledge/wechat-public-account-articles.md) |
-| 04-18 | 🔧 系统 | Wiki 正式收敛为 PARA second-brain 架构 — [→](https://github.com/HaodiFan/AF-wiki/blob/main/SCHEMA.md) |
+
+
 
 <!-- WIKI-FEED-ZH:END -->
 
