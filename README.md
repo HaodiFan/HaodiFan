@@ -82,14 +82,93 @@ We turn cutting-edge AI into working, maintainable, ROI-positive systems.
 > A living personal knowledge system built on the LeadFlow architecture.
 
 <!-- WIKI-FEED:START -->
-| Date | Area | Update |
-|:-----|:-----|:-----|
-| 04-19 | 🔧 System | LeadFlow 架构正式命名，并统一仓库与主页文案 — [→](https://github.com/HaodiFan/AF-wiki/blob/main/log.md) |
-| 04-18 | 📋 Planning | W17 训练计划改为下肢、游泳、推拉混合，并匹配营养节奏 — [→](https://github.com/HaodiFan/AF-wiki/blob/main/areas/fitness/20-weeks/2026-W17-plan.md) |
-| 04-18 | 🏊 Fitness | 游泳 500m，配速 4'37/100m，平均心率 150 bpm — [→](https://github.com/HaodiFan/AF-wiki/blob/main/areas/fitness/10-checkins/2026-04.md) |
-| 04-18 | 🥩 Nutrition | 晚餐牛腱子加牛肉约 750g，当日蛋白基本已覆盖 — [→](https://github.com/HaodiFan/AF-wiki/blob/main/areas/fitness/10-checkins/2026-04.md) |
-| 04-18 | 📋 Planning | 当前减脂主计划固定为 3 次游泳加 3 次力量代谢训练 — [→](https://github.com/HaodiFan/AF-wiki/blob/main/areas/fitness/02-current-plan.md) |
-| 04-18 | 📚 Reading | 收录 7 篇公众号技术文章线索，并建立统一入口页 — [→](https://github.com/HaodiFan/AF-wiki/blob/main/resources/knowledge/wechat-public-account-articles.md) |
+<table>
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Dimension</th>
+      <th>Status</th>
+      <th>Source</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="3"><strong>04-27</strong></td>
+      <td>💪 Training</td>
+      <td>Chest + triceps + core strength session completed, <code>50:37</code> / <code>319 kcal</code> / avg HR <code>111 bpm</code>.</td>
+      <td><a href="https://github.com/HaodiFan/AF-wiki/blob/main/areas/fitness/10-checkins/2026-04.md">check-in</a></td>
+    </tr>
+    <tr>
+      <td>🍽️ Nutrition</td>
+      <td>Breakfast, lunch, and pre/post-workout bananas are logged; dinner is still pending.</td>
+      <td><a href="https://github.com/HaodiFan/AF-wiki/blob/main/areas/fitness/10-checkins/2026-04.md">check-in</a></td>
+    </tr>
+    <tr>
+      <td>📝 Evaluation</td>
+      <td>Training is grounded; recovery closure still depends on dinner or later protein intake.</td>
+      <td><a href="https://github.com/HaodiFan/AF-wiki/blob/main/areas/fitness/10-checkins/2026-04.md">check-in</a></td>
+    </tr>
+    <tr>
+      <td rowspan="3"><strong>04-22</strong></td>
+      <td>🏊 Training</td>
+      <td>Moderate swim completed, <code>23:49</code> / <code>325 m</code> / <code>13</code> laps.</td>
+      <td><a href="https://github.com/HaodiFan/AF-wiki/blob/main/areas/fitness/10-checkins/2026-04.md">check-in</a></td>
+    </tr>
+    <tr>
+      <td>🍽️ Nutrition</td>
+      <td>Breakfast, pre-swim banana, and lunch are logged; dinner is still pending.</td>
+      <td><a href="https://github.com/HaodiFan/AF-wiki/blob/main/areas/fitness/10-checkins/2026-04.md">check-in</a></td>
+    </tr>
+    <tr>
+      <td>📝 Evaluation</td>
+      <td>Aligned with the swim-day direction, but below the planned <code>40-60 min</code> target.</td>
+      <td><a href="https://github.com/HaodiFan/AF-wiki/blob/main/areas/fitness/10-checkins/2026-04.md">check-in</a></td>
+    </tr>
+    <tr>
+      <td rowspan="3"><strong>04-21</strong></td>
+      <td>💪 Training</td>
+      <td>Back + biceps strength session completed, <code>42:18</code>, followed by back stretching.</td>
+      <td><a href="https://github.com/HaodiFan/AF-wiki/blob/main/areas/fitness/10-checkins/2026-04.md">check-in</a></td>
+    </tr>
+    <tr>
+      <td>🍽️ Nutrition</td>
+      <td>Three meals are logged; the separate pre-sleep protein slot is still unconfirmed.</td>
+      <td><a href="https://github.com/HaodiFan/AF-wiki/blob/main/areas/fitness/10-checkins/2026-04.md">check-in</a></td>
+    </tr>
+    <tr>
+      <td>📝 Evaluation</td>
+      <td>The planned swim shifted into a pull-focused lift, a reasonable substitution after the prior push day.</td>
+      <td><a href="https://github.com/HaodiFan/AF-wiki/blob/main/areas/fitness/10-checkins/2026-04.md">check-in</a></td>
+    </tr>
+    <tr>
+      <td rowspan="4"><strong>04-20</strong></td>
+      <td>💪 Training</td>
+      <td>Chest + triceps + core session completed, <code>48:31</code>, covering the day’s push slot.</td>
+      <td><a href="https://github.com/HaodiFan/AF-wiki/blob/main/areas/fitness/10-checkins/2026-04.md">check-in</a></td>
+    </tr>
+    <tr>
+      <td>🍽️ Nutrition</td>
+      <td>Breakfast, lunch, and dinner are logged; pre-sleep intake is still unconfirmed.</td>
+      <td><a href="https://github.com/HaodiFan/AF-wiki/blob/main/areas/fitness/10-checkins/2026-04.md">check-in</a></td>
+    </tr>
+    <tr>
+      <td>📝 Evaluation</td>
+      <td>Strong match to the Monday push slot and a high-quality completed strength day.</td>
+      <td><a href="https://github.com/HaodiFan/AF-wiki/blob/main/areas/fitness/10-checkins/2026-04.md">check-in</a></td>
+    </tr>
+    <tr>
+      <td>🔧 System</td>
+      <td>Area layer normalized around dynamic modules; knowledge became first-class and work gained its scaffold.</td>
+      <td><a href="https://github.com/HaodiFan/AF-wiki/blob/main/log.md">log</a></td>
+    </tr>
+    <tr>
+      <td><strong>04-19</strong></td>
+      <td>🔧 System</td>
+      <td>LeadFlow architecture named and profile / wiki wording unified.</td>
+      <td><a href="https://github.com/HaodiFan/AF-wiki/blob/main/log.md">log</a></td>
+    </tr>
+  </tbody>
+</table>
 <!-- WIKI-FEED:END -->
 
 <p align="right"><sub>Auto-synced from <a href="https://github.com/HaodiFan/AF-wiki">AF-wiki</a></sub></p>
@@ -173,14 +252,93 @@ We turn cutting-edge AI into working, maintainable, ROI-positive systems.
 > 一个基于 LeadFlow 架构持续演化的个人知识系统。
 
 <!-- WIKI-FEED-ZH:START -->
-| 日期 | 领域 | 动态 |
-|:-----|:-----|:-----|
-| 04-19 | 🔧 系统 | LeadFlow 架构正式命名，并统一仓库与主页文案 — [→](https://github.com/HaodiFan/AF-wiki/blob/main/log.md) |
-| 04-18 | 📋 规划 | W17 训练计划改为下肢、游泳、推拉混合，并匹配营养节奏 — [→](https://github.com/HaodiFan/AF-wiki/blob/main/areas/fitness/20-weeks/2026-W17-plan.md) |
-| 04-18 | 🏊 健身 | 游泳 500m，配速 4'37/100m，平均心率 150 bpm — [→](https://github.com/HaodiFan/AF-wiki/blob/main/areas/fitness/10-checkins/2026-04.md) |
-| 04-18 | 🥩 营养 | 晚餐牛腱子加牛肉约 750g，当日蛋白基本已覆盖 — [→](https://github.com/HaodiFan/AF-wiki/blob/main/areas/fitness/10-checkins/2026-04.md) |
-| 04-18 | 📋 规划 | 当前减脂主计划固定为 3 次游泳加 3 次力量代谢训练 — [→](https://github.com/HaodiFan/AF-wiki/blob/main/areas/fitness/02-current-plan.md) |
-| 04-18 | 📚 阅读 | 收录 7 篇公众号技术文章线索，并建立统一入口页 — [→](https://github.com/HaodiFan/AF-wiki/blob/main/resources/knowledge/wechat-public-account-articles.md) |
+<table>
+  <thead>
+    <tr>
+      <th>日期</th>
+      <th>维度</th>
+      <th>状态</th>
+      <th>入口</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="3"><strong>04-27</strong></td>
+      <td>💪 训练</td>
+      <td>胸 + 三头 + 核心力量训练完成，<code>50:37</code> / <code>319 kcal</code> / 平均心率 <code>111 bpm</code>。</td>
+      <td><a href="https://github.com/HaodiFan/AF-wiki/blob/main/areas/fitness/10-checkins/2026-04.md">check-in</a></td>
+    </tr>
+    <tr>
+      <td>🍽️ 营养</td>
+      <td>早餐、午餐、训练前后香蕉已记录；晚餐仍待确认。</td>
+      <td><a href="https://github.com/HaodiFan/AF-wiki/blob/main/areas/fitness/10-checkins/2026-04.md">check-in</a></td>
+    </tr>
+    <tr>
+      <td>📝 评估</td>
+      <td>训练闭环已清楚；恢复闭环还依赖晚餐或后续蛋白补给。</td>
+      <td><a href="https://github.com/HaodiFan/AF-wiki/blob/main/areas/fitness/10-checkins/2026-04.md">check-in</a></td>
+    </tr>
+    <tr>
+      <td rowspan="3"><strong>04-22</strong></td>
+      <td>🏊 训练</td>
+      <td>中等强度游泳完成，<code>23:49</code> / <code>325 m</code> / <code>13</code> 趟。</td>
+      <td><a href="https://github.com/HaodiFan/AF-wiki/blob/main/areas/fitness/10-checkins/2026-04.md">check-in</a></td>
+    </tr>
+    <tr>
+      <td>🍽️ 营养</td>
+      <td>早餐、游泳前香蕉、午餐已记录；晚餐仍待确认。</td>
+      <td><a href="https://github.com/HaodiFan/AF-wiki/blob/main/areas/fitness/10-checkins/2026-04.md">check-in</a></td>
+    </tr>
+    <tr>
+      <td>📝 评估</td>
+      <td>符合游泳日方向，但训练量低于计划中的 <code>40-60 min</code> 目标。</td>
+      <td><a href="https://github.com/HaodiFan/AF-wiki/blob/main/areas/fitness/10-checkins/2026-04.md">check-in</a></td>
+    </tr>
+    <tr>
+      <td rowspan="3"><strong>04-21</strong></td>
+      <td>💪 训练</td>
+      <td>背 + 二头力量训练完成，<code>42:18</code>，并补充后背拉伸。</td>
+      <td><a href="https://github.com/HaodiFan/AF-wiki/blob/main/areas/fitness/10-checkins/2026-04.md">check-in</a></td>
+    </tr>
+    <tr>
+      <td>🍽️ 营养</td>
+      <td>三餐已记录；睡前蛋白作为独立补给位仍待确认。</td>
+      <td><a href="https://github.com/HaodiFan/AF-wiki/blob/main/areas/fitness/10-checkins/2026-04.md">check-in</a></td>
+    </tr>
+    <tr>
+      <td>📝 评估</td>
+      <td>原计划游泳改为 pull 向力量训练，是接在前一日 push 训练后的合理替代。</td>
+      <td><a href="https://github.com/HaodiFan/AF-wiki/blob/main/areas/fitness/10-checkins/2026-04.md">check-in</a></td>
+    </tr>
+    <tr>
+      <td rowspan="4"><strong>04-20</strong></td>
+      <td>💪 训练</td>
+      <td>胸 + 三头 + 核心力量训练完成，<code>48:31</code>，覆盖当日 push 训练位。</td>
+      <td><a href="https://github.com/HaodiFan/AF-wiki/blob/main/areas/fitness/10-checkins/2026-04.md">check-in</a></td>
+    </tr>
+    <tr>
+      <td>🍽️ 营养</td>
+      <td>早餐、午餐、晚餐已记录；睡前补给仍待确认。</td>
+      <td><a href="https://github.com/HaodiFan/AF-wiki/blob/main/areas/fitness/10-checkins/2026-04.md">check-in</a></td>
+    </tr>
+    <tr>
+      <td>📝 评估</td>
+      <td>与 Monday push slot 高度匹配，当日可视为完成质量较高的力量日。</td>
+      <td><a href="https://github.com/HaodiFan/AF-wiki/blob/main/areas/fitness/10-checkins/2026-04.md">check-in</a></td>
+    </tr>
+    <tr>
+      <td>🔧 系统</td>
+      <td>area 层收敛为动态模块；knowledge 提升为 area，并补 work area 骨架。</td>
+      <td><a href="https://github.com/HaodiFan/AF-wiki/blob/main/log.md">log</a></td>
+    </tr>
+    <tr>
+      <td><strong>04-19</strong></td>
+      <td>🔧 系统</td>
+      <td>LeadFlow 架构正式命名，并统一仓库与主页文案。</td>
+      <td><a href="https://github.com/HaodiFan/AF-wiki/blob/main/log.md">log</a></td>
+    </tr>
+  </tbody>
+</table>
 <!-- WIKI-FEED-ZH:END -->
 
 <p align="right"><sub>自动同步自 <a href="https://github.com/HaodiFan/AF-wiki">AF-wiki</a></sub></p>
