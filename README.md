@@ -90,9 +90,6 @@ We turn cutting-edge AI into working, maintainable, ROI-positive systems.
 | 04-18 | 🥩 Nutrition | 晚餐牛腱子加牛肉约 750g，当日蛋白基本已覆盖 — [→](https://github.com/HaodiFan/AF-wiki/blob/main/areas/fitness/10-checkins/2026-04.md) |
 | 04-18 | 📋 Planning | 当前减脂主计划固定为 3 次游泳加 3 次力量代谢训练 — [→](https://github.com/HaodiFan/AF-wiki/blob/main/areas/fitness/02-current-plan.md) |
 | 04-18 | 📚 Reading | 收录 7 篇公众号技术文章线索，并建立统一入口页 — [→](https://github.com/HaodiFan/AF-wiki/blob/main/resources/knowledge/wechat-public-account-articles.md) |
-
-
-
 <!-- WIKI-FEED:END -->
 
 <p align="right"><sub>Auto-synced from <a href="https://github.com/HaodiFan/AF-wiki">AF-wiki</a></sub></p>
@@ -184,9 +181,6 @@ We turn cutting-edge AI into working, maintainable, ROI-positive systems.
 | 04-18 | 🥩 营养 | 晚餐牛腱子加牛肉约 750g，当日蛋白基本已覆盖 — [→](https://github.com/HaodiFan/AF-wiki/blob/main/areas/fitness/10-checkins/2026-04.md) |
 | 04-18 | 📋 规划 | 当前减脂主计划固定为 3 次游泳加 3 次力量代谢训练 — [→](https://github.com/HaodiFan/AF-wiki/blob/main/areas/fitness/02-current-plan.md) |
 | 04-18 | 📚 阅读 | 收录 7 篇公众号技术文章线索，并建立统一入口页 — [→](https://github.com/HaodiFan/AF-wiki/blob/main/resources/knowledge/wechat-public-account-articles.md) |
-
-
-
 <!-- WIKI-FEED-ZH:END -->
 
 <p align="right"><sub>自动同步自 <a href="https://github.com/HaodiFan/AF-wiki">AF-wiki</a></sub></p>
@@ -197,6 +191,14 @@ We turn cutting-edge AI into working, maintainable, ROI-positive systems.
 
 > 只有同时理解 AI 的天花板、前沿和地面，AI 才能真正落地。  
 > 我在这三层都做过，所以我知道边界在哪里，也知道 ROI 在哪里。
+
+### Current wiki highlights
+- Root homepage README with recent timeline updates and navigation entrypoints
+- Area-based structure under `areas/` for fitness, knowledge, and work
+- Fitness records that combine daily check-ins, weekly reviews, and versioned plan history
+- Derived indexing / sync utilities under `infra/` to support maintenance and queryability
+
+If you want to understand how I think and organize ongoing work, this is the best place to start.
 
 </details>
 
