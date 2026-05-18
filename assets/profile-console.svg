@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="520" viewBox="0 0 1280 520" role="img" aria-labelledby="title desc">
+  <title id="title">Anthony Fan public system map</title>
+  <desc id="desc">A dark technical banner connecting GitHub Profile, AF-wiki, AnthonyHF.Skill, and ChatGPT Next Web.</desc>
+  <defs>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M 48 0 L 0 0 0 48" fill="none" stroke="#f4f1e8" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#171715"/>
+      <stop offset="1" stop-color="#0f0f0d"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="520" fill="#080807"/>
+  <rect width="1280" height="520" fill="url(#grid)"/>
+  <rect x="48" y="46" width="1184" height="428" rx="8" fill="#11110f" stroke="#34332e"/>
+  <rect x="72" y="70" width="1136" height="380" rx="8" fill="url(#panel)" stroke="#34332e"/>
+
+  <text x="96" y="118" fill="#3dd6c6" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" font-weight="600">AF PUBLIC CONSOLE</text>
+  <text x="96" y="188" fill="#f4f1e8" font-family="Inter, SF Pro Display, Segoe UI, Arial, sans-serif" font-size="72" font-weight="700">Anthony Fan</text>
+  <text x="100" y="230" fill="#a9a49a" font-family="Inter, SF Pro Text, Segoe UI, Arial, sans-serif" font-size="24" font-weight="500">AI delivery infrastructure · agent systems · second brain</text>
+  <text x="100" y="278" fill="#746f66" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16">hardware-aware systems / frontier data production / business delivery</text>
+
+  <g fill="none" stroke="#34332e" stroke-width="2">
+    <path d="M612 176 H756"/>
+    <path d="M612 260 H756"/>
+    <path d="M612 344 H756"/>
+    <path d="M984 176 H1106"/>
+    <path d="M984 260 H1106"/>
+    <path d="M984 344 H1106"/>
+  </g>
+  <circle cx="612" cy="176" r="5" fill="#3dd6c6"/>
+  <circle cx="612" cy="260" r="5" fill="#66d37e"/>
+  <circle cx="612" cy="344" r="5" fill="#ffb454"/>
+
+  <g font-family="Inter, SF Pro Text, Segoe UI, Arial, sans-serif">
+    <rect x="756" y="132" width="228" height="72" rx="8" fill="#11110f" stroke="#3dd6c6"/>
+    <text x="780" y="162" fill="#f4f1e8" font-size="20" font-weight="700">GitHub Profile</text>
+    <text x="780" y="186" fill="#a9a49a" font-size="14">public homepage</text>
+
+    <rect x="756" y="216" width="228" height="72" rx="8" fill="#11110f" stroke="#66d37e"/>
+    <text x="780" y="246" fill="#f4f1e8" font-size="20" font-weight="700">AF-wiki Map</text>
+    <text x="780" y="270" fill="#a9a49a" font-size="14">fitness + knowledge</text>
+
+    <rect x="756" y="300" width="228" height="72" rx="8" fill="#11110f" stroke="#ffb454"/>
+    <text x="780" y="330" fill="#f4f1e8" font-size="20" font-weight="700">AnthonyHF.Skill</text>
+    <text x="780" y="354" fill="#a9a49a" font-size="14">avatar skill matrix</text>
+
+    <rect x="1106" y="132" width="66" height="240" rx="8" fill="#0d0d0b" stroke="#34332e"/>
+    <text x="1139" y="186" fill="#77a7ff" font-size="16" font-weight="700" text-anchor="middle">App</text>
+    <text x="1139" y="214" fill="#a9a49a" font-size="12" text-anchor="middle">Next</text>
+    <text x="1139" y="236" fill="#a9a49a" font-size="12" text-anchor="middle">Web</text>
+    <text x="1139" y="318" fill="#ff6b5d" font-size="16" font-weight="700" text-anchor="middle">Gate</text>
+    <text x="1139" y="344" fill="#a9a49a" font-size="12" text-anchor="middle">public</text>
+  </g>
+
+  <g font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14">
+    <rect x="96" y="332" width="132" height="34" rx="6" fill="#171715" stroke="#34332e"/>
+    <text x="162" y="354" fill="#66d37e" text-anchor="middle">systems</text>
+    <rect x="244" y="332" width="132" height="34" rx="6" fill="#171715" stroke="#34332e"/>
+    <text x="310" y="354" fill="#77a7ff" text-anchor="middle">agents</text>
+    <rect x="392" y="332" width="132" height="34" rx="6" fill="#171715" stroke="#34332e"/>
+    <text x="458" y="354" fill="#ffb454" text-anchor="middle">delivery</text>
+  </g>
+
+  <text x="96" y="420" fill="#746f66" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13">Public layer only: curated notes, source IDs, routes, and deployable system surfaces.</text>
+</svg>
